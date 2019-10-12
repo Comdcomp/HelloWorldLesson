@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorldLesson</string>
+    <string name="txtInfoPrice">Цена товара</string>
+    <string name="txtInfoDiscount">Скидка</string>
+    <string name="btnCalc">Расчет</string>
+    <string name="txtResult">Результат</string>
+</resources>
